@@ -1,0 +1,177 @@
+
+
+
+function setup() {
+  createCanvas(600, 800);
+ 
+}
+
+function draw() {
+  background("black");
+   fill("#0000ee");
+  ellipse (60, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (60, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (60, 260, 50, 50);
+   fill("#000088");
+     ellipse (60, 360, 50, 50);
+  fill("#000066");
+     ellipse (60, 460, 50, 50);
+  fill("#000044");
+     ellipse (60, 560, 50, 50);
+  fill("#000022");
+     ellipse (60, 660, 50, 50);
+  
+   fill("#0000ee");
+  ellipse (160, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (160, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (160, 260, 50, 50);
+   fill("#000088");
+     ellipse (160, 360, 50, 50);
+  fill("#000066");
+     ellipse (160, 460, 50, 50);
+  fill("#000044");
+     ellipse (160, 560, 50, 50);
+  fill("#000022");
+     ellipse (160, 660, 50, 50);
+  
+   fill("#0000ee");
+  ellipse (260, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (260, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (260, 260, 50, 50);
+   fill("#000088");
+     ellipse (260, 360, 50, 50);
+  fill("#000066");
+     ellipse (260, 460, 50, 50);
+  fill("#000044");
+     ellipse (260, 560, 50, 50);
+  fill("#000022");
+     ellipse (260, 660, 50, 50);
+  
+   fill("#0000ee");
+  ellipse (360, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (360, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (360, 260, 50, 50);
+   fill("#000088");
+     ellipse (360, 360, 50, 50);
+  fill("#000066");
+     ellipse (360, 460, 50, 50);
+  fill("#000044");
+     ellipse (360, 560, 50, 50);
+  fill("#000022");
+     ellipse (360, 660, 50, 50);
+  
+   fill("#0000ee");
+  ellipse (460, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (460, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (460, 260, 50, 50);
+   fill("#000088");
+     ellipse (460, 360, 50, 50);
+  fill("#000066");
+     ellipse (460, 460, 50, 50);
+  fill("#000044");
+     ellipse (460, 560, 50, 50);
+  fill("#000022");
+     ellipse (460, 660, 50, 50);
+  
+   fill("#0000ee");
+  ellipse (560, 60, 50, 50);
+   fill("#0000cc");
+   ellipse (560, 160, 50, 50);
+   fill("#0000aa");
+     ellipse (560, 260, 50, 50);
+   fill("#000088");
+     ellipse (560, 360, 50, 50);
+  fill("#000066");
+     ellipse (560, 460, 50, 50);
+  fill("#000044");
+     ellipse (560, 560, 50, 50);
+  fill("#000022");
+     ellipse (560, 660, 50, 50);
+
+  fill("#0000ee");
+     ellipse (300, 760, 200, 50);
+  strokeWeight(4);
+  fill("red");
+  ellipse (300, 400, 300, 350);
+    fill("black");
+  ellipse (300, 460, 200, 150);
+  fill("red");
+  ellipse (300, 400, 200, 100);
+   fill("red");
+  ellipse (300, 310, 300, 200);
+    fill("red");
+  ellipse (170, 430, 130, 100);
+      fill("red");
+  ellipse (430, 430, 130, 100);
+   fill("red");
+  strokeWeight(0);
+  ellipse (300, 530, 160, 90);
+        fill("red");
+  strokeWeight(4);
+  ellipse (300, 550, 130, 110);
+  fill("#ee0000");
+  ellipse (220, 370, 100, 100);
+  fill("#ee0000");
+  ellipse (390, 370, 100, 100);
+   fill("#000000");
+  ellipse (230, 360, 100, 100);
+  fill("#000000");
+  ellipse (380, 360, 100, 100);
+  fill("red");
+  rect (270, 250, 70, 170);
+  fill("red");
+  ellipse (270, 410, 40, 40);
+  fill("red");
+  ellipse (340, 410, 40, 40);
+  fill("red");
+  ellipse (305, 405, 80, 80);
+  fill("red");
+  rect (150, 170, 300, 100);
+   fill("red");
+  ellipse (215, 230, 160, 150);
+   fill("red");
+  ellipse (385, 230, 160, 150);
+   fill("red");
+  ellipse (390, 290, 150, 100);
+   fill("red");
+  ellipse (210, 290, 150, 100);
+  fill("red");
+  ellipse (360, 300, 100, 100);
+   fill("red");
+  ellipse (240, 300, 100, 100);
+  fill("#ffffcc");
+  ellipse (200, 200, 130, 110);
+   fill("#ffffcc");
+  ellipse (190, 190, 110, 90);
+  fill("#ffffcc");
+  ellipse (180, 180, 90, 70);
+  fill("#ffffcc");
+  ellipse (190, 165, 70, 50);
+    fill("#ffffcc");
+  ellipse (200, 150, 50, 30);
+    fill("#ffffcc");
+  ellipse (210, 140, 30, 30);
+   fill("#ffffcc");
+  ellipse (400, 200, 130, 110);
+   fill("#ffffcc");
+  ellipse (410, 190, 110, 90);
+  fill("#ffffcc");
+  ellipse (420, 180, 90, 70);
+  fill("#ffffcc");
+  ellipse (410, 165, 70, 50);
+    fill("#ffffcc");
+  ellipse (400, 150, 50, 30);
+    fill("#ffffcc");
+  ellipse (390, 140, 30, 30);
+  
+}
