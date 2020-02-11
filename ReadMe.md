@@ -7,10 +7,10 @@
 ## Homework Week 2
 * [sketch 1](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Oni%20mask/)
 * [sketch 2](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Shitty%20photoshop/)
-* [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Fun/)
+* [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Cursed/)
 
 ## Homework Week 3
-* [sketch 1](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Cursed/)
+* [sketch 1](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Fun/)
 * [sketch 2](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Rainbow%20blight/)
 * [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Dragon/)
 
