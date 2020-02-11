@@ -10,7 +10,7 @@
 * [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Cursed/)
 
 ## Homework Week 3
-* [sketch 1](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Fun/)
+* [sketch 1](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Butterfly%20of%20chaos/)
 * [sketch 2](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Rainbow%20blight/)
 * [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Dragon/)
 
