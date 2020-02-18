@@ -1,7 +1,7 @@
 # Digital Craft spring- '20
 
 ## Homework week 1
-* [blog entry]()
+* [blog entry](https://portfolio.newschool.edu/space1vagabond/category/courses/year-1/)
 
 
 ## Homework Week 2
