@@ -18,4 +18,4 @@
 * [GUI](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/GUI/)
 * [preparation for lasercut](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Butterfly%20of%20chaos%20copy%20for%20cut/)
 
-![My LP](https://portfolio.newschool.edu/space1vagabond/category/courses/year-1/)
+![Welcome](https://www.instagram.com/p/B7bkOH7p8M1/?utm_source=ig_web_copy_link/)
