@@ -14,4 +14,8 @@
 * [sketch 2](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Rainbow%20blight/)
 * [sketch 3](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Dragon/)
 
+## Homework Week 4
+* [GUI](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/GUI/)
+* [preparation for lasercut](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Butterfly%20of%20chaos%20copy%20for%20cut/)
+
 ![alternate text](web adress)
