@@ -1,13 +1,15 @@
 let a,i,p;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(400, 400, SVG);
 }
 
 function draw() {
   background(255);
+  strokeWeight(1);
    stroke(00, 00, 255);
   rect (0, 0, 400, 400);
   strokeWeight(001); //I make it possible to cut out
+     stroke(00, 00, 00);
   for(var i= 20; i < width; i+=40){
   for (var a= 20; a < height; a+=40){
  for (var p= 100; p < 250; p+=20) {
@@ -28,4 +30,8 @@ function draw() {
     line(400+i, 400, 200, 200);  
     line(400,400+i, 200, 200);
   }
+  save("mySVG.svg"); // give file name
+  print("saved svg");
+  noLoop();
+ 
 }
