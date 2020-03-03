@@ -25,5 +25,6 @@
 ## Miscellaneous
 
 * [Bonus~](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Space%20oddity/)
+* [Bonus 2~](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Rave/)
 
 ![Welcome](https://www.instagram.com/p/B7bkOH7p8M1/?utm_source=ig_web_copy_link/)
