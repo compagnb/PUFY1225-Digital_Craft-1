@@ -22,6 +22,7 @@
 * [JOIN RIOT](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Robo%20riot/)
 
 
+## Miscellaneous
 
 * [Bonus~](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Space%20oddity/)
 
