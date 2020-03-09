@@ -23,7 +23,7 @@
 * [JOIN RIOT](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Robo%20riot/)
 
 ## Homework Week 6
-* [Possum](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Dragon/)
+* [Possum](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Opossum/)
 
 
 ## Miscellaneous
