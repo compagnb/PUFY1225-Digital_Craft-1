@@ -24,6 +24,7 @@
 
 ## Homework Week 6
 * [Possum](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Opossum/)
+* [Robot](https://dinosaurpower.github.io/PUFY1225-Digital_Craft/Robot/)
 
 
 ## Miscellaneous
