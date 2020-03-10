@@ -7,6 +7,7 @@ function setup() {
   inp.input(myInputEvent); //I create actually input
   pg = createGraphics(200, 200); //texture setup
   pg.textSize(75); //texture setup
+  pg.textFont('Helvetica');
 
 }
 
