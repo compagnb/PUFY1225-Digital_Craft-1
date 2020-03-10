@@ -19,31 +19,8 @@ function draw() {
   pg.text(t, 20, 100); //making texture spell
 
   
-    rotateY(frameCount * 0.01) //I make a robot
-
-let t="nothing";
-let pg;
-//I wanna make a texture
-function setup() {
-  createCanvas(400, 400, WEBGL);
-  let inp = createInput(' '); //i create input for the text
-  inp.input(myInputEvent); //I create actually input
-  pg = createGraphics(200, 200); //texture setup
-  pg.textSize(75); //texture setup
-
-}
-
-function draw() {
-  
-  background("#404770");
-  
-  rectMode(CENTER);
-  pg.background(255); //making texture settings
-  pg.text(t, 20, 100); //making texture spell
-
-  
-    rotateX(mouseY/5) //I make a robot rotate
-  rotateY(mouseX/5);
+    rotateX(mouseY/10) //I make a robot rotate
+  rotateY(mouseX/10);
 
 pointLight(255, 0, 0, 10, 10, 100); //light 1
   pointLight(255, 255, 255, 50, 100, 50); //light 2
