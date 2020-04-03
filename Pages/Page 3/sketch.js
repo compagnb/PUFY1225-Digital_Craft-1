@@ -1,26 +1,30 @@
+var gif_loadImg, gif_createImg;
+
+function preload() {
+  gif_loadImg = loadImage("Sprite3.gif");
+  gif_createImg = createImg("Sprite3.gif"); //I upload my gif
+}
 
 function setup() {
   createCanvas(windowHeight, windowWidth);
-link = createA('http://p5js.org/', 'this is a link','_blank');
-  link.position(windowWidth/3,windowHeight/1.05);
+link = createA('http://p5js.org/', 'this is a link','_blank'); //I create link
+  link.position(windowWidth/3,windowHeight/1.05); //I set up link position
 }
 
 function draw() {
   background(220);
-  rectMode (CENTER);
+  rectMode (CENTER); //make my life easier
   noStroke();
-   fill("#535353");
-  rect(windowHeight/2,windowWidth/2,windowWidth*2, windowHeight*2);
+   fill("#535353"); //color
+  rect(windowHeight/2,windowWidth/2,windowWidth*2, windowHeight*2); //background
    fill("#c6c6c6");
-  rect(windowHeight/2, windowWidth/2, windowWidth/1.3, windowHeight/1.3);
+  rect(windowHeight/2, windowWidth/2, windowWidth/1.3, windowHeight/1.3); //One cool rectangle
   fill("#efefef");
-   rect(windowHeight/2, windowWidth/2, windowWidth/1.3, windowHeight/1.75);
+   rect(windowHeight/2, windowWidth/2, windowWidth/1.3, windowHeight/1.75); //second cool rectangle
  image(gif_loadImg, 50, 50);
   
-  // updates animation frames by using an html
-  // img element, positioning it over top of
-  // the canvas.
-  gif_createImg.position(50, 350);
+image(gif_loadImg, 50, 50);
+  gif_createImg.position(50, 350); //I ad my gif and once it starts working I will set up its size and position
 
 
 
