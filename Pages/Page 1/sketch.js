@@ -1,8 +1,8 @@
 var gif_loadImg, gif_createImg;
 
 function preload() {
-  gif_loadImg = loadImage("Sprite 1.gif");
-  gif_createImg = createImg("Sprite 1.gif"); //I upload my gif
+  gif_loadImg = loadImage("Sprite1.gif");
+  gif_createImg = createImg("Sprite1.gif"); //I upload my gif
 }
 
 function setup() {
